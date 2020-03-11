@@ -1,0 +1,12 @@
+{
+    "name": "ingoandelhofs/flash-module",
+    "description": "A module interface that can access flash-php core functionality.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ingo Andelhofs",
+            "email": "ingoandelhofs@gmail.com"
+        }
+    ],
+    "require": {}
+}
